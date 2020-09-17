@@ -1,2 +1,2 @@
 # stosimDES
-Discrete Event Simulation
+Discrete Event Simulation companion to R stosim package
